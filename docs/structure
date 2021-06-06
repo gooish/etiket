@@ -1,0 +1,21 @@
+- git repo for tickets
+    - command "push" to push to repo
+        - credential handling?
+
+- local lists (or dicts?) for ticket editing
+    - command "save" for saving to files?
+    - combined command to save and push (call both commands sequentially)
+    - would require state handling inbetween multiple instances
+
+- no git repo??
+    - where to save stuff
+    - cloud service? would be easiest
+    - getting that on servers might be shitty
+    - OneDrive with abraunegg for wrapping?
+
+- combined file for all, file for each, or combined list and files for each?
+    - would make making a backend shitty, dont wanna do that
+
+- google drive!!
+    - requires no netcode, could work as easily locally as remotely
+    - shit to run on linux
